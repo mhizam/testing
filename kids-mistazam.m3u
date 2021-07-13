@@ -19,25 +19,25 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59
 #EXTINF:-1 tvg-country="US" tvg-logo="https://i.ytimg.com/vi/lNouCfvl710/maxresdefault_live.jpg" group-title="Kids",POP
 https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-"#EXTINF:-1 tvg-country="" tvg-logo="https://www.astra2sat.com/wp-content/uploads/2017/08/POP-Max.jpg" group-title="Kids",POP MAX
+#EXTINF:-1 tvg-country="" tvg-logo="https://www.astra2sat.com/wp-content/uploads/2017/08/POP-Max.jpg" group-title="Kids",POP MAX
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://ukmums.tv/wp-content/uploads/2020/02/thumbnail-2000px.jpg" group-title="Kids",TINY POP
+#EXTINF:-1 tvg-country="" tvg-logo="https://ukmums.tv/wp-content/uploads/2020/02/thumbnail-2000px.jpg" group-title="Kids",TINY POP
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/48/32/0c/48320c2e06d02a54862016ba73bd2521.jpg" group-title="Kids",TVO KIDS
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/48/32/0c/48320c2e06d02a54862016ba73bd2521.jpg" group-title="Kids",TVO KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/sua9_TJqyDI/maxresdefault.jpg" group-title="Kids",ZOO MOO
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/sua9_TJqyDI/maxresdefault.jpg" group-title="Kids",ZOO MOO
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/UlePHxt7umc/maxresdefault.jpg" group-title="Kids",GO KIDS GAMER
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/UlePHxt7umc/maxresdefault.jpg" group-title="Kids",GO KIDS GAMER
 https://studio71-ssai.amagi.tv/ingest/roku/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/jhM7ibd6teY/maxresdefault.jpg" group-title="Kids",KIDS CLICK
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/jhM7ibd6teY/maxresdefault.jpg" group-title="Kids",KIDS CLICK
 https://content.uplynk.com/channel/1698bf57810a48c486b83d542bca298d.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://cdn.browsercam.com/headers/com.PocketWatch.App-header.png" group-title="Kids",POCKET WATCH
+#EXTINF:-1 tvg-country="" tvg-logo="https://cdn.browsercam.com/headers/com.PocketWatch.App-header.png" group-title="Kids",POCKET WATCH
 https://pocketwatch.roku.wurl.com/manifest/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/F9ci3TO5PNg/maxresdefault.jpg" group-title="Kids",MOONBUG
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.ytimg.com/vi/F9ci3TO5PNg/maxresdefault.jpg" group-title="Kids",MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://assets1.ignimgs.com/2017/03/16/legoworlds-1280-1489696199581.jpg" group-title="Kids",LEGO
+#EXTINF:-1 tvg-country="" tvg-logo="https://assets1.ignimgs.com/2017/03/16/legoworlds-1280-1489696199581.jpg" group-title="Kids",LEGO
 https://legochannel-roku.amagi.tv/playlist.m3u8"
-"#EXTINF:-1 tvg-country="" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2019/03/brat-branded.jpg" group-title="Kids",BRAT TV
+#EXTINF:-1 tvg-country="" tvg-logo="https://www.tubefilter.com/wp-content/uploads/2019/03/brat-branded.jpg" group-title="Kids",BRAT TV
 https://brat-roku-us.amagi.tv/playlist.m3u8"
 #EXTINF:-1 tvg-country="US" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids",Pluto TV Kids (US)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
